@@ -46,3 +46,4 @@ Build -> Test -> Deploy
 
 This project demonstrates pipeline ordering. The jobs print messages and do not deploy a real application.
 
+Capstone status: Initial CI pipeline configured.
